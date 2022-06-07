@@ -26,6 +26,5 @@ for( let i = 1; i <= 100; i++ ) {
 
     // Popolare la nostra ul 
     containerNumbers.innerHTML += boxNumber;
-
 }
 
